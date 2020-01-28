@@ -1,0 +1,47 @@
+body {
+    background-color: #fafaf869!important;
+}
+
+h1, .display-4 {
+  color: rgba(17, 0, 255, 0.678);
+  font-weight: 700;
+  font-family: 'Bangers', cursive;
+}
+
+img {
+  height: 320px;
+}
+
+h1.section-title {
+  border: none;
+  margin-top: 20px;
+}
+
+.section-title {
+  border-top: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
+  text-align: center;
+  padding: 15px auto;
+  margin: 0 0 20px;
+  text-transform: uppercase;
+}
+
+.progress {
+  height: 15px;
+}
+
+.progress-bar {
+  width: 20%;
+}
+
+.bg-kellogg {
+  background-color: purple;
+}
+
+.css-selector {
+    font-family: 'Bangers', cursive;
+    }
+
+.navbar {
+  background-color: lime;
+}
