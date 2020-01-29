@@ -8,8 +8,14 @@ h1, .display-4 {
   font-family: 'Bangers', cursive;
 }
 
-img {
-  height: 320px;
+.jumbotron {
+  text-align: center;
+}
+
+h2 {
+  color: lightskyblue;
+  font-weight: 400;
+  font-family: 'Bangers', cursive;
 }
 
 h1.section-title {
@@ -26,22 +32,24 @@ h1.section-title {
   text-transform: uppercase;
 }
 
-.progress {
-  height: 15px;
-}
-
-.progress-bar {
-  width: 20%;
-}
-
-.bg-kellogg {
-  background-color: purple;
+.row {
+  font-size: 20px;
 }
 
 .css-selector {
     font-family: 'Bangers', cursive;
     }
 
-.navbar {
-  background-color: lime;
+.footer-img{
+  width: 150;
+  height: 150;
+}
+
+.navbar-brand{
+  font-family: 'Bangers', cursive;
+}
+
+.lead {
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
 }
